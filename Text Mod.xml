@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Text Mod</ModName>
+  <ModDiscription>Text for your worlds</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Text Mod@Parkitect</OBJName>
+      <Type>deco</Type>
+      <inGameName>Parkitect</inGameName>
+      <price>1</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Text</category>
+      <heightDelta>0.1</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>C2C2C2</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+  </Objects>
+</Mod>
